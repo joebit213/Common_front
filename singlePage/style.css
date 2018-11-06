@@ -1,0 +1,71 @@
+*{
+  font-size: .95em
+}
+
+.bornav{
+  border-bottom: solid 1px rgb(214, 214, 214)
+}
+
+.crumb{
+  margin: 30px;
+}
+
+.detail{
+  padding-left: 30px;
+}
+
+.detail-comand{
+  background-color: rgb(236, 255, 228);
+  color: rgb(10, 192, 10);
+  height: 40px;
+  padding: 8px 0px 0px 40px;
+}
+
+.nord{
+  margin: 15px;
+}
+
+.datos{
+  border-top: solid 1px rgb(214, 214, 214); 
+  border-bottom: solid 1px rgb(214, 214, 214);
+  padding: 15px 300px 0px 20px;
+  height: 80px;
+}
+
+.caja-art{
+  border: solid 1px rgb(214, 214, 214);
+  margin: 2% 16% 0 3%;
+  padding: 40px 20px 20px 30px;
+}
+
+.caja-img{
+  text-align: center;
+  border-right: solid 1px rgb(214, 214, 214);
+  margin-right: 20px;
+}
+
+.boton{
+  margin-top: 30px;
+}
+
+.detalle-orden{
+  position: absolute;
+  width: 80%;
+  }
+
+.historial-clinico{
+  padding: 30px;
+  position: relative;
+  margin-left: 69%;
+  margin-right: 30px;
+  height: 100vw;
+  background-color: rgb(245, 245, 245);
+  border: solid 1px rgb(226, 225, 225);
+}
+
+footer{
+  background-color: black;
+  position: relative;
+  color: rgb(212, 211, 211);
+  padding: 80px;
+}

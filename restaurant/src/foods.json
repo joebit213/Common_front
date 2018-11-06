@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Pizza",
+    "precio": 400,
+    "image": "https://i.imgur.com/eTmWoAN.png",
+    "cantidad": 0
+  },
+  {
+    "name": "Salad",
+    "precio": 150,
+    "image": "https://i.imgur.com/DupGBz5.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Sweet Potato",
+    "precio": 120,
+    "image": "https://i.imgur.com/hGraGyR.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Gnocchi",
+    "precio": 500,
+    "image": "https://i.imgur.com/93ekwW0.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Pot Roast",
+    "precio": 350,
+    "image": "https://i.imgur.com/WCzJDWz.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Lasagna",
+    "precio": 750,
+    "image": "https://i.imgur.com/ClxOafl.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Hamburger",
+    "precio": 400,
+    "image": "https://i.imgur.com/LoG39wK.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Pad Thai",
+    "precio": 475,
+    "image": "https://i.imgur.com/5ktcSzF.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Almonds",
+    "precio": 75,
+    "image": "https://i.imgur.com/JRp4Ksx.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Bacon",
+    "precio": 175,
+    "image": "https://i.imgur.com/7GlqDsG.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Hot Dog",
+    "precio": 275,
+    "image": "https://i.imgur.com/QqVHdRu.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Chocolate Cake",
+    "precio": 490,
+    "image": "https://i.imgur.com/yrgzA9x.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Wheat Bread",
+    "precio": 175,
+    "image": "https://i.imgur.com/TsWzMfM.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Orange",
+    "precio": 85,
+    "image": "https://i.imgur.com/abKGOcv.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Banana",
+    "precio": 175,
+    "image": "https://i.imgur.com/BMdJhu5.jpg",
+    "cantidad": 0
+  },
+  {
+    "name": "Yogurt",
+    "precio": 125,
+    "image": "https://i.imgur.com/URhdrAm.png",
+    "cantidad": 0
+  }
+]
