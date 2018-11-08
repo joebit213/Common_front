@@ -39,24 +39,36 @@ class App extends Component {
 render(){
   return (
       <div style={{padding:'50px 0'}}>
+      <div className='res'>
+      <h1>Restaurante Common!</h1>
+      </div>
+      <div className='carta'>
+        <h2 >Menu</h2>
+      </div>
         <div>
+           <div className='menu'>
            {this.state.foods.map((e,i) => {
                 return (
                   <div>
-                    <Food key={i} {...e} addFood={detail => this.addFood(detail)}/>                  
-                
-            </div>
+                    <Food key={i} {...e} addFood={detail => this.addFood(detail)}/>                    
+                 </div>
                   
                 )
               })
            }
-
-           <h3 className="title">Comanda</h3>
+           </div>
+            <div className='comanda'>
+            <h3 className="title">Comanda</h3>
                 <ul>
                   {this.state.details.map((e,i) => <li key={i}>{e.cantidad} {e.name} = $ {e.precio} <button onClick={ () => {
                       this.deleteFood(i)}}>x</button> </li> )}
                 </ul>
+                
+                <br/>
+                <hr/>
                 <p>Total: $ {this.state.precio} </p>
+            </div>
+           
         </div>
       </div>
   )
